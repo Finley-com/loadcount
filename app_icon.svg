@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="512" height="512" fill="#000000"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#0000FF"/>
+      <stop offset="100%" stop-color="#FFA500"/>
+    </linearGradient>
+  </defs>
+  <!-- Gradient text 'LC' in a modern sans-serif font -->
+  <text x="50%" y="58%" text-anchor="middle" fill="url(#grad)"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="300" font-weight="bold">
+    LC
+  </text>
+</svg> 
